@@ -12,7 +12,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 5. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 6. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
 7. [Store E-commerce Sales Analysis (Power BI)](#7-store-e-commerce-sales-analysis-using-power-bi)
-8. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#8-restaurant-staffing-efficiency-and-cost-analysis-usingpower-bi)
+8. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#8-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
 9. [Different Products Sales Analysis (Tableau)](#9-different-products-sales-analysis-using-tableau)
 10. [House Sales Analysis (Tableau)](#10-house-sales-analysis-using-tableau)
 11. [Bike Sales Analysis (Excel)](#11-bike-sales-analysis-using-excel)
