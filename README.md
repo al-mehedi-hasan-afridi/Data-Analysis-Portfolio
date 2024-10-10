@@ -12,9 +12,10 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 5. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 6. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
 7. [Store E-commerce Sales Analysis (Power BI)](#7-store-e-commerce-sales-analysis-using-power-bi)
-8. [Different Products Sales Analysis (Tableau)](#8-different-products-sales-analysis-using-tableau)
-9. [House Sales Analysis (Tableau)](#9-house-sales-analysis-using-tableau)
-10. [Bike Sales Analysis (Excel)](#10-bike-sales-analysis-using-excel)
+8. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#8-restaurant-staffing-efficiency-and-cost-analysis-usingpower-bi)
+9. [Different Products Sales Analysis (Tableau)](#9-different-products-sales-analysis-using-tableau)
+10. [House Sales Analysis (Tableau)](#10-house-sales-analysis-using-tableau)
+11. [Bike Sales Analysis (Excel)](#11-bike-sales-analysis-using-excel)
 
 ---
 
@@ -105,7 +106,19 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 8. Different Products Sales Analysis Using Tableau
+### 8. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
+
+- **Overview**: Analyzed restaurant performance data, focusing on sales, employee utilization, and order trends across two locations to provide insights into operational efficiency and cost management.
+- **Tools Used**: Power BI (for data visualization and interactive reporting).
+- **Key Insights**:
+  - Determined which restaurant location has a higher order volume and compared employee allocation relative to order trends.
+  - Detected optimal employee utilization levels and identified areas for potential improvement in workforce efficiency.
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Restaurant-Staffing-Efficiency-And-Cost-Analysis-Using-Power-BI)
+
+---
+
+### 9. Different Products Sales Analysis Using Tableau
 
 - **Overview**: Analyzed product sales data using a dataset of approximately 300k records to understand key product drivers and customer preferences. 
 - **Tools Used**: Tableau.
@@ -117,7 +130,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 9. House Sales Analysis Using Tableau
+### 10. House Sales Analysis Using Tableau
 
 - **Overview**: Analyzed house sales data from 2014-2015 in the USA, using a dataset of more than 21k records to identify trends and patterns in house prices and sales volume.
 - **Tools Used**: Tableau.
@@ -129,7 +142,7 @@ Welcome to my data analytics portfolio! This repository showcases a collection o
 
 ---
 
-### 10. Bike Sales Analysis Using Excel
+### 11. Bike Sales Analysis Using Excel
 
 - **Overview**: Analyzed bike sales data using over 1k records to uncover trends in customer preferences.
 - **Tools Used**: Excel (PivotTables, Charts).
