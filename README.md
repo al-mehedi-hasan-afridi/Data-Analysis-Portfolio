@@ -58,7 +58,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### ### 4. Customer Transaction Dashboard Using Excel and Power BI
+### 4. Customer Transaction Dashboard Using Excel and Power BI
 
 - **Overview**: Developed a comprehensive dashboard to analyze customer transaction data, focusing on payment methods, membership insights, and geographical trends.
 - **Tools Used**: Excel (for data manipulation), Power BI (for data visualization).
