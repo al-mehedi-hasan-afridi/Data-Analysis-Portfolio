@@ -8,14 +8,15 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 1. [Product Sales Analysis (SQL, PowerBI)](#1-product-sales-analysis-using-sql--power-bi)
 2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
 3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python--power-bi)
-4. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
-5. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
-6. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
-7. [Store E-commerce Sales Analysis (Power BI)](#7-store-e-commerce-sales-analysis-using-power-bi)
-8. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#8-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
-9. [Different Products Sales Analysis (Tableau)](#9-different-products-sales-analysis-using-tableau)
-10. [House Sales Analysis (Tableau)](#10-house-sales-analysis-using-tableau)
-11. [Bike Sales Analysis (Excel)](#11-bike-sales-analysis-using-excel)
+4. [Customer Transaction Dashboard (Power BI)](#4-customer-transaction-dashboard-using-power-bi)
+5. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
+6. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
+7. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
+8. [Store E-commerce Sales Analysis (Power BI)](#7-store-e-commerce-sales-analysis-using-power-bi)
+9. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#8-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
+10. [Different Products Sales Analysis (Tableau)](#9-different-products-sales-analysis-using-tableau)
+11. [House Sales Analysis (Tableau)](#10-house-sales-analysis-using-tableau)
+12. [Bike Sales Analysis (Excel)](#11-bike-sales-analysis-using-excel)
 
 ---
 
@@ -57,7 +58,21 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 4. Monitoring and Detection of COVID-19 Using IoT and ML
+### ### 4. Customer Transaction Dashboard Using Excel and Power BI
+
+- **Overview**: Developed a comprehensive dashboard to analyze customer transaction data, focusing on payment methods, membership insights, and geographical trends.
+- **Tools Used**: Excel (for data manipulation), Power BI (for data visualization).
+- **Key Insights**:
+  - Highlighted top-performing customers, locations, and payment methods.
+  - Identified significant trends in membership and service usage, along with age and gender-based analysis.
+  - Provided actionable insights on Year-over-Year growth and monthly transaction trends.
+  - **Business Report**: Delivered a detailed business report with recommendations, including strategies to enhance customer retention, optimize high-performing payment methods, and target growth opportunities in underperforming regions.
+  
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Customer-Transaction-Analysis-Using-Excel-PowerBI)
+
+---
+
+### 5. Monitoring and Detection of COVID-19 Using IoT and ML
 
 - **Overview**: Developed a machine learning-based system that detects COVID-19 based on cough data and wearable IoT devices.
 - **Tools Used**: Machine Learning (Python), IoT devices (hardware integration), Firebase (for database storage), Django (web framework).
@@ -69,7 +84,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 5. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
+### 6. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
 
 - **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
@@ -81,7 +96,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 6. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
+### 7. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
 
 - **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
 - **Tools Used**: Python (BeautifulSoup, Reject).
@@ -94,7 +109,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 7. Store E-commerce Sales Analysis Using Power BI
+### 8. Store E-commerce Sales Analysis Using Power BI
 
 - **Overview**: Created an interactive Power BI dashboard to analyze store e-commerce sales with a dataset of over 1.5k records, focusing on customer demographics and product categories.
 - **Tools Used**: Power BI.
@@ -106,7 +121,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 8. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
+### 9. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
 
 - **Overview**: Analyzed restaurant performance data, focusing on sales, employee utilization, and order trends across two locations to provide insights into operational efficiency and cost management.
 - **Tools Used**: Power BI (for data visualization and interactive reporting).
@@ -118,7 +133,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 9. Different Products Sales Analysis Using Tableau
+### 10. Different Products Sales Analysis Using Tableau
 
 - **Overview**: Analyzed product sales data using a dataset of approximately 300k records to understand key product drivers and customer preferences. 
 - **Tools Used**: Tableau.
@@ -130,7 +145,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 10. House Sales Analysis Using Tableau
+### 11. House Sales Analysis Using Tableau
 
 - **Overview**: Analyzed house sales data from 2014-2015 in the USA, using a dataset of more than 21k records to identify trends and patterns in house prices and sales volume.
 - **Tools Used**: Tableau.
@@ -142,7 +157,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 11. Bike Sales Analysis Using Excel
+### 12. Bike Sales Analysis Using Excel
 
 - **Overview**: Analyzed bike sales data using over 1k records to uncover trends in customer preferences.
 - **Tools Used**: Excel (PivotTables, Charts).
