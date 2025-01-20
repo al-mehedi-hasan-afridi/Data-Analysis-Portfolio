@@ -8,7 +8,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 1. [Product Sales Analysis (SQL, PowerBI)](#1-product-sales-analysis-using-sql--power-bi)
 2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
 3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python--power-bi)
-4. [Customer Transaction Dashboard (Excel, Power BI)](#4-customer-transaction-dashboard-using-excel-and-power-bi)
+4. [Customer Transaction Analysis (Excel, Power BI)](#4-customer-transaction-dashboard-using-excel-and-power-bi)
 5. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
 6. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 7. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
@@ -58,7 +58,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 4. Customer Transaction Dashboard Using Excel and Power BI
+### 4. Customer Transaction Analysis Using Excel and Power BI
 
 - **Overview**: Developed a comprehensive dashboard to analyze customer transaction data, focusing on payment methods, membership insights, and geographical trends.
 - **Tools Used**: Excel (for data manipulation), Power BI (for data visualization).
