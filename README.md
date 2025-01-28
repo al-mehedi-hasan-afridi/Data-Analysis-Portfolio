@@ -75,7 +75,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 ### 5. Monitoring and Detection of COVID-19 Using IoT and ML
 
 - **Overview**: Developed a machine learning-based system that detects COVID-19 based on cough data and wearable IoT devices.
-- **Tools Used**: Machine Learning (Python), IoT devices (hardware integration), Firebase (for database storage), Django (web framework).
+- **Tools Used**: Python (Data Cleaning, Visualization, and Machine Learning), IoT devices (hardware integration), Firebase (for database storage), Django (web framework).
 - **Key Insights**:
   - Achieved high accuracy in COVID-19 detection using machine learning and real-time data from IoT devices.
   - Demonstrated the potential of combining machine learning with IoT for health monitoring.
