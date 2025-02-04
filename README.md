@@ -9,14 +9,14 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
 3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python--power-bi)
 4. [Customer Transaction Analysis (Excel, Power BI)](#4-customer-transaction-analysis-using-excel-and-power-bi)
-5. [Monitoring and Detection of COVID-19 (IoT, ML)](#4-monitoring-and-detection-of-covid-19-using-iot-and-ml)
-6. [Web Scraping USA Companies' Revenue Data (Python)](#5-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
-7. [Web Scraping Random Functions' Descriptions Data (Python)](#6-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
-8. [Store E-commerce Sales Analysis (Power BI)](#7-store-e-commerce-sales-analysis-using-power-bi)
-9. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#8-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
-10. [Different Products Sales Analysis (Tableau)](#9-different-products-sales-analysis-using-tableau)
-11. [House Sales Analysis (Tableau)](#10-house-sales-analysis-using-tableau)
-12. [Bike Sales Analysis (Excel)](#11-bike-sales-analysis-using-excel)
+5. [Monitoring and Detection of COVID-19 (IoT, ML)](#5-monitoring-and-detection-of-covid-19-using-iot-and-ml)
+6. [Web Scraping USA Companies' Revenue Data (Python)](#6-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
+7. [Web Scraping Random Functions' Descriptions Data (Python)](#7-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
+8. [Store E-commerce Sales Analysis (Power BI)](#8-store-e-commerce-sales-analysis-using-power-bi)
+9. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#9-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
+10. [Different Products Sales Analysis (Tableau)](#10-different-products-sales-analysis-using-tableau)
+11. [House Sales Analysis (Tableau)](#11-house-sales-analysis-using-tableau)
+12. [Bike Sales Analysis (Excel)](#12-bike-sales-analysis-using-excel)
 
 ---
 
