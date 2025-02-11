@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Data Analysis Portfolio</strong></h1>
 
 
-Welcome to my data analysis portfolio! This repository showcases a collection of my data analysis and visualization projects, demonstrating my proficiency with tools such as SQL, Excel, Python, Power BI, and Tableau. Each project includes datasets, code, and dashboards that are used to analyze and visualize data to derive actionable insights.
+Welcome to my data analysis portfolio! This repository showcases a collection of my data analysis and visualization projects, which demonstrate my proficiency with tools such as SQL, Excel, Python, Power BI, and Tableau. Each project includes datasets, code, and dashboards that are used to analyze and visualize data to derive actionable insights.
 
 ## Table of Contents
 
@@ -13,10 +13,11 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 6. [Web Scraping USA Companies' Revenue Data (Python)](#6-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 7. [Web Scraping Random Functions' Descriptions Data (Python)](#7-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
 8. [Store E-commerce Sales Analysis (Power BI)](#8-store-e-commerce-sales-analysis-using-power-bi)
-9. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#9-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
-10. [Different Products Sales Analysis (Tableau)](#10-different-products-sales-analysis-using-tableau)
-11. [House Sales Analysis (Tableau)](#11-house-sales-analysis-using-tableau)
-12. [Bike Sales Analysis (Excel)](#12-bike-sales-analysis-using-excel)
+9. [Maven Music Challenge Analysis (Power BI)](#9-maven-music-challenge-analysis-using-power-bi)  
+10. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#10-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
+11. [Different Products Sales Analysis (Tableau)](#11-different-products-sales-analysis-using-tableau)
+12. [House Sales Analysis (Tableau)](#12-house-sales-analysis-using-tableau)
+13. [Bike Sales Analysis (Excel)](#13-bike-sales-analysis-using-excel)
 
 ---
 
@@ -121,7 +122,21 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 9. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
+### 9. Maven Music Challenge Analysis Using Power BI  
+
+- **Overview**: Developed an interactive Power BI dashboard to analyze music listening behavior, highlighting top tracks, artists, albums, and listening trends over time.  
+- **Tools Used**: Power BI.  
+- **Key Insights**:  
+  - Identified the most played and skipped tracks, providing insights into user preferences.  
+  - Analyzed platform usage, showing that **Android** dominates music streaming.  
+  - Examined listening duration trends, revealing peak engagement between **2019 and 2021**.  
+  - Discovered the most common reasons for track starts and ends.  
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Maven-Music-Challenge-Analysis-Power-BI)  
+
+---
+
+### 10. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
 
 - **Overview**: Analyzed restaurant performance data, focusing on sales, employee utilization, and order trends across two locations to provide insights into operational efficiency and cost management.
 - **Tools Used**: Power BI (for data visualization and interactive reporting).
@@ -133,7 +148,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 10. Different Products Sales Analysis Using Tableau
+### 11. Different Products Sales Analysis Using Tableau
 
 - **Overview**: Analyzed product sales data using a dataset of approximately 300k records to understand key product drivers and customer preferences. 
 - **Tools Used**: Tableau.
@@ -145,7 +160,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 11. House Sales Analysis Using Tableau
+### 12. House Sales Analysis Using Tableau
 
 - **Overview**: Analyzed house sales data from 2014-2015 in the USA, using a dataset of more than 21k records to identify trends and patterns in house prices and sales volume.
 - **Tools Used**: Tableau.
@@ -157,7 +172,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 12. Bike Sales Analysis Using Excel
+### 13. Bike Sales Analysis Using Excel
 
 - **Overview**: Analyzed bike sales data using over 1k records to uncover trends in customer preferences.
 - **Tools Used**: Excel (PivotTables, Charts).
