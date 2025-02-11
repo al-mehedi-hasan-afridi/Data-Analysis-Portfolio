@@ -129,7 +129,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 - **Key Insights**:  
   - Identified the most played and skipped tracks, providing insights into user preferences.  
   - Analyzed platform usage, showing that **Android** dominates music streaming.  
-  - Examined listening duration trends, revealing peak engagement between **2019 and 2021**.  
+  - Examined listening duration trends, revealing peak engagement in **2020 and 2021**.  
   - Discovered the most common reasons for track starts and ends.  
 
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Maven-Music-Challenge-Analysis-Power-BI)  
