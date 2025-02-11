@@ -13,7 +13,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 6. [Web Scraping USA Companies' Revenue Data (Python)](#6-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
 7. [Web Scraping Random Functions' Descriptions Data (Python)](#7-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
 8. [Store E-commerce Sales Analysis (Power BI)](#8-store-e-commerce-sales-analysis-using-power-bi)
-9. [Maven Music Challenge Analysis (Power BI)](#9-maven-music-challenge-analysis-using-power-bi)  
+9. [Music Listening Behavior Analysis (Power BI)](#9-music-listening-behavior-analysis-using-power-bi)  
 10. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#10-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
 11. [Different Products Sales Analysis (Tableau)](#11-different-products-sales-analysis-using-tableau)
 12. [House Sales Analysis (Tableau)](#12-house-sales-analysis-using-tableau)
@@ -122,7 +122,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 9. Maven Music Challenge Analysis Using Power BI  
+### 9. Music Listening Behavior Analysis Using Power BI  
 
 - **Overview**: Developed an interactive Power BI dashboard to analyze music listening behavior, highlighting top tracks, artists, albums, and listening trends over time.  
 - **Tools Used**: Power BI.  
@@ -132,7 +132,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
   - Examined listening duration trends, revealing peak engagement in **2020 and 2021**.  
   - Discovered the most common reasons for track starts and ends.  
 
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Maven-Music-Challenge-Analysis-Power-BI)  
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Music-Listening-Behavior-Analysis-Power-BI)  
 
 ---
 
