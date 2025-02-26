@@ -70,7 +70,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 - **Key Insights**:  
   - Identified top profitable symbols and trade types.  
   - Analyzed total profit trends and trading activity across different periods.  
-  - Examined profitability by trading reasons and stop-loss strategies.    
+  - Examined profitability based on multiple factors. 
 
 [Link to Project](https://github.com/al-mehedi-hasan-afridi/Proprietary-Trading-Profit-Analysis-Using-Python-PowerBI)  
 
