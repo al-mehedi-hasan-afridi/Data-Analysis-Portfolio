@@ -7,17 +7,17 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 1. [Product Sales Analysis (SQL, PowerBI)](#1-product-sales-analysis-using-sql--power-bi)
 2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
-3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python--power-bi)
-4. [Customer Transaction Analysis (Excel, Power BI)](#4-customer-transaction-analysis-using-excel-and-power-bi)
-5. [Monitoring and Detection of COVID-19 (IoT, ML)](#5-monitoring-and-detection-of-covid-19-using-iot-and-ml)
-6. [Web Scraping Book Data (Python)](#6-web-scraping-book-data-in-python-with-beautifulsoup-and-requests)
-7. [Web Scraping Course Details (Python)](#7-web-scraping-course-details-in-python-with-beautifulsoup-and-requests)  
-8. [Web Scraping USA Companies' Revenue Data (Python)](#8-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
-9. [Web Scraping Random Functions' Descriptions Data (Python)](#9-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
-10. [Web Scraping BD Universities Details (Python)](#10-web-scraping-bd-universities-details-in-python-with-beautifulsoup-and-requests)  
-11. [Store E-commerce Sales Analysis (Power BI)](#11-store-e-commerce-sales-analysis-using-power-bi)
-12. [Music Listening Behavior Analysis (Power BI)](#12-music-listening-behavior-analysis-using-power-bi)
-13. [will be given](#13-music-listening-behavior-analysis-using-power-bi)
+3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python-and-power-bi)
+4. [Proprietary Trading Profit Analysis (Python, Power BI)](#4-proprietary-trading-profit-analysis-using-python-and-power-bi)  
+5. [Customer Transaction Analysis (Excel, Power BI)](#5-customer-transaction-analysis-using-excel-and-power-bi)
+6. [Monitoring and Detection of COVID-19 (IoT, ML)](#6-monitoring-and-detection-of-covid-19-using-iot-and-ml)
+7. [Web Scraping Book Data (Python)](#7-web-scraping-book-data-in-python-with-beautifulsoup-and-requests)
+8. [Web Scraping Course Details (Python)](#8-web-scraping-course-details-in-python-with-beautifulsoup-and-requests)  
+9. [Web Scraping USA Companies' Revenue Data (Python)](#9-web-scraping-usa-companies-revenue-data-in-python-with-beautifulsoup-and-requests)
+10. [Web Scraping Random Functions' Descriptions Data (Python)](#10-web-scraping-random-functions-descriptions-data-in-python-with-beautifulsoup-and-reject)
+11. [Web Scraping BD Universities Details (Python)](#11-web-scraping-bd-universities-details-in-python-with-beautifulsoup-and-requests)  
+12. [Store E-commerce Sales Analysis (Power BI)](#12-store-e-commerce-sales-analysis-using-power-bi)
+13. [Music Listening Behavior Analysis (Power BI)](#13-music-listening-behavior-analysis-using-power-bi)
 14. [Restaurant Staffing Efficiency And Cost Analysis (Power BI)](#14-restaurant-staffing-efficiency-and-cost-analysis-using-power-bi)
 15. [Different Products Sales Analysis (Tableau)](#15-different-products-sales-analysis-using-tableau)
 16. [House Sales Analysis (Tableau)](#16-house-sales-analysis-using-tableau)
@@ -63,7 +63,21 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 4. Customer Transaction Analysis Using Excel and Power BI
+### 4. Proprietary Trading Profit Analysis Using Python & Power BI  
+
+- **Overview**: Analyzed proprietary trading performance from 2024-2025 to evaluate profit distribution across symbols, trade types, and monthly trends.  
+- **Tools Used**: Python (for data extraction, cleaning, and analysis), Power BI (for visualizing trade performance and profit trends).  
+- **Key Insights**:  
+  - Identified top profitable symbols and trade types.  
+  - Analyzed total profit trends and trading activity across different periods.  
+  - Examined profitability by trading reasons and stop-loss strategies.    
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Proprietary-Trading-Profit-Analysis-Using-Python-PowerBI)  
+
+
+---
+
+### 5. Customer Transaction Analysis Using Excel and Power BI
 
 - **Overview**: Developed a comprehensive dashboard to analyze customer transaction data, focusing on payment methods, membership insights, and geographical trends.
 - **Tools Used**: Excel (for data manipulation), Power BI (for data visualization).
@@ -77,7 +91,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 5. Monitoring and Detection of COVID-19 Using IoT and ML
+### 6. Monitoring and Detection of COVID-19 Using IoT and ML
 
 - **Overview**: Developed a machine learning-based system that detects COVID-19 based on cough data and wearable IoT devices.
 - **Tools Used**: Python (Data Cleaning, Visualization, and Machine Learning), IoT devices (hardware integration), Firebase (for database storage), Django (web framework).
@@ -89,7 +103,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 6. Web Scraping Book Data in Python with BeautifulSoup and Requests  
+### 7. Web Scraping Book Data in Python with BeautifulSoup and Requests  
 - **Overview**: Developed a web scraper to collect multiple pages' book details from an online bookstore, storing the extracted data for further analysis.  
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping, Pandas for data handling).  
 - **Key Insights**:  
@@ -100,7 +114,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 7. Web Scraping Course Details in Python with BeautifulSoup and Requests  
+### 8. Web Scraping Course Details in Python with BeautifulSoup and Requests  
 - **Overview**: Created a web scraper to extract course details from an online learning platform, structuring the data for analysis.  
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping, Pandas for data storage).  
 - **Key Insights**:  
@@ -111,7 +125,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 8. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
+### 9. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
 
 - **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
@@ -123,7 +137,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 9. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
+### 10. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
 
 - **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
 - **Tools Used**: Python (BeautifulSoup, Reject).
@@ -136,7 +150,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 10. Web Scraping BD Universities Details in Python with BeautifulSoup and Requests  
+### 11. Web Scraping BD Universities Details in Python with BeautifulSoup and Requests  
 - **Overview**: Built a web scraper to extract university details from a Wikipedia table, organizing the data for further use.  
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping, Pandas for data organization).  
 - **Key Insights**:  
@@ -147,7 +161,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 11. Store E-commerce Sales Analysis Using Power BI
+### 12. Store E-commerce Sales Analysis Using Power BI
 
 - **Overview**: Created an interactive Power BI dashboard to analyze store e-commerce sales with a dataset of over 1.5k records, focusing on customer demographics and product categories.
 - **Tools Used**: Power BI.
@@ -159,21 +173,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 12. Music Listening Behavior Analysis Using Power BI  
-
-- **Overview**: Developed an interactive Power BI dashboard to analyze music listening behavior, highlighting top tracks, artists, albums, and listening trends over time.  
-- **Tools Used**: Power BI.  
-- **Key Insights**:  
-  - Identified the most played and skipped tracks, providing insights into user preferences.  
-  - Analyzed platform usage, showing that **Android** dominates music streaming.  
-  - Examined listening duration trends, revealing peak engagement in **2020 and 2021**.  
-  - Discovered the most common reasons for track starts and ends.  
-
-[Link to Project](https://github.com/al-mehedi-hasan-afridi/Music-Listening-Behavior-Analysis-Power-BI)  
-
----
-
-### 13. Will be given
+### 13. Music Listening Behavior Analysis Using Power BI  
 
 - **Overview**: Developed an interactive Power BI dashboard to analyze music listening behavior, highlighting top tracks, artists, albums, and listening trends over time.  
 - **Tools Used**: Power BI.  
