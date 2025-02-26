@@ -7,8 +7,8 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 1. [Product Sales Analysis (SQL, PowerBI)](#1-product-sales-analysis-using-sql--power-bi)
 2. [Hotel Revenue Analysis (SQL, Power BI)](#2-hotel-revenue-analysis-using-sql--power-bi)
-3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python-and-power-bi)
-4. [Proprietary Trading Profit Analysis (Python, Power BI)](#4-proprietary-trading-profit-analysis-using-python-and-power-bi)  
+3. [Retail Product Sales Analysis (Python, Power BI)](#3-retail-product-sales-analysis-using-python--power-bi)
+4. [Proprietary Trading Profit Analysis (Python, Power BI)](#4-proprietary-trading-profit-analysis-using-python--power-bi)  
 5. [Customer Transaction Analysis (Excel, Power BI)](#5-customer-transaction-analysis-using-excel-and-power-bi)
 6. [Monitoring and Detection of COVID-19 (IoT, ML)](#6-monitoring-and-detection-of-covid-19-using-iot-and-ml)
 7. [Web Scraping Book Data (Python)](#7-web-scraping-book-data-in-python-with-beautifulsoup-and-requests)
