@@ -103,7 +103,43 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 7. Web Scraping Book Data in Python with BeautifulSoup and Requests  
+### 7. Web Scraping Company Details in Python with BeautifulSoup, SeleniumBase, and Undetected Chrome Driver  
+- **Overview**: Built a web scraper to extract company details from a website, leveraging SeleniumBase and Undetected Chrome Driver to navigate and bypass Cloudflare.  
+- **Tools Used**: Python (BeautifulSoup for scraping, SeleniumBase & Undetected Chrome Driver for Cloudflare bypass, Pandas for data organization).  
+- **Key Insights**:  
+  - Used browser automation techniques to overcome website restrictions.  
+  - Organized and stored scraped data in an Excel file for further analysis.  
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-Company-Details-in-Python-with-BeautifulSoup-SeleniumBase-and-Undetected-Chrome-Driver)  
+
+---
+
+### 8. Web Scraping Company Details in Python with BeautifulSoup, Curl Impersonate, and Requests  
+
+- **Overview**: Developed a web scraper to extract company details from a website, utilizing Curl Impersonate and Requests to bypass Cloudflare protection.  
+- **Tools Used**: Python (BeautifulSoup for data extraction, Curl Impersonate & Requests for bypassing Cloudflare, Pandas for data organization).  
+- **Key Insights**:  
+  - Implemented techniques to handle Cloudflare restrictions for seamless data retrieval.  
+  - Stored scraped data in an Excel file for structured analysis.  
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-Company-Details-in-Python-with-BeautifulSoup-Curl-Impersonate-and-Requests)  
+
+---
+
+### 9. Web Scraping Company Details in Python with BeautifulSoup and CloudScraper  
+
+- **Overview**: Designed a web scraper to extract company details from a website, using CloudScraper to bypass Cloudflare restrictions.  
+- **Tools Used**: Python (BeautifulSoup for data extraction, CloudScraper for handling Cloudflare, Pandas for data organization).  
+- **Key Insights**:  
+  - Implemented an advanced request-handling method to ensure successful data retrieval.  
+  - Stored scraped data in an Excel file for easy accessibility and further use.  
+
+[Link to Project](https://github.com/al-mehedi-hasan-afridi/Web-Scraping-Company-Details-in-Python-with-BeautifulSoup-and-CloudScraper)  
+
+---
+
+### 10. Web Scraping Book Data in Python with BeautifulSoup and Requests  
+
 - **Overview**: Developed a web scraper to collect multiple pages' book details from an online bookstore, storing the extracted data for further analysis.  
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping, Pandas for data handling).  
 - **Key Insights**:  
@@ -114,7 +150,8 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 8. Web Scraping Course Details in Python with BeautifulSoup and Requests  
+### 11. Web Scraping Course Details in Python with BeautifulSoup and Requests  
+
 - **Overview**: Created a web scraper to extract course details from an online learning platform, structuring the data for analysis.  
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping, Pandas for data storage).  
 - **Key Insights**:  
@@ -125,8 +162,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 9. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
-
+### 12. Web Scraping USA Companies' Revenue Data in Python with BeautifulSoup and Requests
 - **Overview**: Built a web scraper to collect revenue data of top USA companies from a publicly available website, storing the data for analysis.
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping).
 - **Key Insights**:
@@ -137,7 +173,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 10. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
+### 13. Web Scraping Random Functions' Descriptions Data in Python with BeautifulSoup and Reject
 
 - **Overview**: Developed a Python script to scrape random function descriptions from web pages using BeautifulSoup. The script automates data collection for analysis, filtering out irrelevant content to focus on meaningful information.
 - **Tools Used**: Python (BeautifulSoup, Reject).
@@ -150,7 +186,8 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 11. Web Scraping BD Universities Details in Python with BeautifulSoup and Requests  
+### 14. Web Scraping BD Universities Details in Python with BeautifulSoup and Requests  
+
 - **Overview**: Built a web scraper to extract university details from a Wikipedia table, organizing the data for further use.  
 - **Tools Used**: Python (BeautifulSoup, Requests for web scraping, Pandas for data organization).  
 - **Key Insights**:  
@@ -161,7 +198,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 12. Store E-commerce Sales Analysis Using Power BI
+### 15. Store E-commerce Sales Analysis Using Power BI
 
 - **Overview**: Created an interactive Power BI dashboard to analyze store e-commerce sales with a dataset of over 1.5k records, focusing on customer demographics and product categories.
 - **Tools Used**: Power BI.
@@ -173,7 +210,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 13. Music Listening Behavior Analysis Using Power BI  
+### 16. Music Listening Behavior Analysis Using Power BI  
 
 - **Overview**: Developed an interactive Power BI dashboard to analyze music listening behavior, highlighting top tracks, artists, albums, and listening trends over time.  
 - **Tools Used**: Power BI.  
@@ -187,7 +224,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 14. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
+### 17. Restaurant Staffing Efficiency And Cost Analysis Using Power BI
 
 - **Overview**: Analyzed restaurant performance data, focusing on sales, employee utilization, and order trends across two locations to provide insights into operational efficiency and cost management.
 - **Tools Used**: Power BI (for data visualization and interactive reporting).
@@ -199,7 +236,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 15. Different Products Sales Analysis Using Tableau
+### 18. Different Products Sales Analysis Using Tableau
 
 - **Overview**: Analyzed product sales data using a dataset of approximately 300k records to understand key product drivers and customer preferences. 
 - **Tools Used**: Tableau.
@@ -211,7 +248,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 16. House Sales Analysis Using Tableau
+### 19. House Sales Analysis Using Tableau
 
 - **Overview**: Analyzed house sales data from 2014-2015 in the USA, using a dataset of more than 21k records to identify trends and patterns in house prices and sales volume.
 - **Tools Used**: Tableau.
@@ -223,7 +260,7 @@ Welcome to my data analysis portfolio! This repository showcases a collection of
 
 ---
 
-### 17. Bike Sales Analysis Using Excel
+### 20. Bike Sales Analysis Using Excel
 
 - **Overview**: Analyzed bike sales data using over 1k records to uncover trends in customer preferences.
 - **Tools Used**: Excel (PivotTables, Charts).
